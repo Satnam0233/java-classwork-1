@@ -9,6 +9,7 @@ public class add {
 		int c= a+b;
 		System.out.println(c);
 		system.out.println("hello");
+		system.out.println("worldd");
 	}
 
 }
