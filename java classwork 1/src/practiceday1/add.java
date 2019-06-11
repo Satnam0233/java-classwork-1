@@ -8,6 +8,7 @@ public class add {
 	public static add(int a,int b) {
 		int c= a+b;
 		System.out.println(c);
+		system.out.println("hello");
 	}
 
 }
